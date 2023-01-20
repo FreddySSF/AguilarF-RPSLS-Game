@@ -1,0 +1,32 @@
+body {
+    background-color: #571b7e;
+}
+
+.offRight {
+    justify-content: flex-end;
+}
+
+h1 {
+    color: white;
+}
+
+a {
+    color: white;
+
+}
+
+.image {
+    justify-content: center;
+}
+
+.btn {
+    color: white;
+}
+
+.navbar-brand {
+    color: white;
+}
+
+.none {
+    display: none;
+}
